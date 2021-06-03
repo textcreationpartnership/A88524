@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A looking-glasse for all proud, ambitious, covetous and corrupt lavvyers. Wherein they may see their fore-fathers love and humility.</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88524</idno><idno type="EEBO-CITATION">99861741</idno>
+  <idno type="VID">160029</idno>
+  <idno type="EEBO-PROQUEST">2248533105</idno>
+  
+            <idno type="STC">Wing L3016</idno>
+            <idno type="STC">Thomason E361_6</idno>
+            <idno type="STC">ESTC R201208</idno>
+            <idno type="PROQUEST">99861741</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861741e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88524)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160029)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E361[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A looking-glasse for all proud, ambitious, covetous and corrupt lavvyers. Wherein they may see their fore-fathers love and humility.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "London Nou: 10th 1646".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Lawyers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:160029:1"/>
+            <head>A Looking-Glasse FOR ALL Proud, ambitious, covetous and corrupt LAVVYERS. Wherein they may see <hi>Their fore-Fathers Love and Humility.</hi>
+            </head>
+            <p>
+               <note n="*" place="margin">Dion. Halicarn. l. <hi>2.</hi> Li<g ref="char:EOLhyphen"/>vius l. <hi>1.</hi> Plutarch. in Romu<g ref="char:EOLhyphen"/>lo. The like was used amongst the Thessalians, who called these kinde of Clients, Pe<g ref="char:EOLhyphen"/>nestae. And amongst the A<g ref="char:EOLhyphen"/>thenians, who called them Thetae. Lazius. Comment. Reipub. Rom. lib. <hi>12.</hi> c. <hi>3.</hi> Dempster. Antiquitatum. Rom. lib. <hi>1.</hi> c. <hi>16.17.</hi> Car. Sigon. de Antiquo. Jure Ci<g ref="char:EOLhyphen"/>vium Rom.</note>WHen Rome was in her integri<g ref="char:EOLhyphen"/>ty, the great men studied the Lawes, and pleaded the cause of the poore without fee, <hi>Jure Clientelae:</hi> Every eminent man having many hun<g ref="char:EOLhyphen"/>dreds, nay, some thousands of poor men under their protection, for whom they did, <hi>respondere de jure,</hi> make defence in Law. This was a mutuall Obligation of common charity; and these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfeed Pa<g ref="char:EOLhyphen"/>trons were justly stiled, <hi>Sacerdotes Justi<g ref="char:EOLhyphen"/>tiae,</hi> Priests of <hi>Themis</hi> the Goddesse of justice. But afterwards, <hi>Cùm abundantes divitiae desiderium in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>exere per luxum at<g ref="char:EOLhyphen"/>que libidinem pereundi perdendique omnia:</hi> When abundant wealth brought in luxurie to afflict the manners of the Common-wealth, they grew into corruption with the times, tooke fees, and became <hi>viles rabulae,</hi> Hackney Petty-foggers, and Hucksters of the Law.</p>
+            <pb n="2" facs="tcp:160029:2"/>
+            <p>Now, though our Lawyers were never in that state of innocency to practice without Fee, yet were they never in that height of cor<g ref="char:EOLhyphen"/>ruption, and unlimited way of gaine, they are now in. I have heard old men say, they remembred when Lawyers at the beginning of a Terme, would stand at a pillar in <hi>Pauls,</hi> Temple-Bar, the corner of Chancery-Lane, and other Avenues, attending the coming in of their Countrey-men, with cap in hand courteously saluting them, and en<g ref="char:EOLhyphen"/>quiring what businesse brought them to Towne: not much unlike Water-men, plying for a Fare. But now they are growne to that height of pride, that a man can hardly (after long attendance) come so neare a great Lawyers study-doore, as to bid <hi>(God save him)</hi> with<g ref="char:EOLhyphen"/>out a fee or bribe. Nor are their fees of meane value three pounds, five pounds, six pounds being usuall, even for making a motion of five or six lines: and if he be a Lawyer <hi>interioris admissionis,</hi> a Privado or Favourite, so much is well given to buy his silence, that he appears not against you: Oh misery! poore men cannot go to the price of justice, and rich men are oft undone by buying it.<note n="*" place="margin">Prevarication was so detestable to the Roman Patrons, when they tooke no fees, that by the De<g ref="char:EOLhyphen"/>cemvirall Lawes, it was enacted; Patronus si Clienti fraudem fecerit, sacer isto. But when they practised for fees, all-cor<g ref="char:EOLhyphen"/>rupting money taught them to sell their faith, and betray their Clients. Claudian. in Ruffin. Pro<g ref="char:EOLhyphen"/>fert arcana, Clientes fal<g ref="char:EOLhyphen"/>lit. Walter Norborne.</note> Nor is it an unusuall thing for a Lawyer to be of Councell with one party, and to prevari<g ref="char:EOLhyphen"/>cate, and be of confederacy under hand with the adverse party. By these means, though there are so many Lawyers (besides Attourneyes, Clerks, and Sollicitours, to spring game for them) that they can hard<g ref="char:EOLhyphen"/>ly live one by another, that the multitude of Professors scandalizeth the profession, and oppresseth the Common-wealth: yet many of them rise from nothing to great estates, five thousand pounds, six thou<g ref="char:EOLhyphen"/>sand pounds, nay ten thousand pounds, twelve thousand pounds land by the year, (to the admiration and detestation of Forrainers) and purchase Ba<g ref="char:EOLhyphen"/>ronies and Earledomes. But this bought Honour, is Honour the <hi>Whore,</hi> not Honour the <hi>Virgin.</hi> And this is an evident demonstration of a decrepit Common-wealth, when these necessary Evills do so en<g ref="char:EOLhyphen"/>crease and multiply upon us. Nor do our Lawyers practise any thing more, than to please their more litigious Clients, by evading Lawes
+<pb n="3" facs="tcp:160029:2"/> and Statutes, with intricate Pleadings, Mis-constructions, and De<g ref="char:EOLhyphen"/>layes, and where they faile, by enervating the Lawes under a pre<g ref="char:EOLhyphen"/>tence of Equity in Chancery. This Court was Griginally <hi>Officina Ju<g ref="char:EOLhyphen"/>ris,</hi> the work-house where Originall Write were made, it received Inquisitions and Offices <hi>post mortem,</hi> and dealt in some other busines<g ref="char:EOLhyphen"/>ses assigned to it by Acts of Parliament, and the Lord Keeper, or Chancellour, had the keeping not only of the Kings Great Seale, but of his conscience also; and did right to many men upon suppli<g ref="char:EOLhyphen"/>cation to him of wrong and torts done them by the King his imme<g ref="char:EOLhyphen"/>diate Officers, or Tenants, over-ruling that Law Maxime, <hi>The King can do no wrong,</hi> where Equity (sharper sighted then the Law) saw a wrong.<note n="*" place="margin">Spalman. trifariam fa<g ref="char:EOLhyphen"/>cit Cancellariam.
+<list>
+                     <item>
+                        <hi>1</hi> Ministralem, que ori<g ref="char:EOLhyphen"/>ginis antiquae.</item>
+                     <item>
+                        <hi>2</hi> Judicialem, seu foren<g ref="char:EOLhyphen"/>sem, quae mediae antiqui<g ref="char:EOLhyphen"/>tatis.</item>
+                     <item>
+                        <hi>3</hi> Praetoriam, quae recen<g ref="char:EOLhyphen"/>tioris originis est, &amp; hoc sensu Recordi Curia non habetur: huic subjiciun<g ref="char:EOLhyphen"/>tur casus Anomali &amp; ex<g ref="char:EOLhyphen"/>orbitantes.</item>
+                  </list>
+               </note> But <hi>very few ages since,</hi> the Lord Keeper (un<g ref="char:EOLhyphen"/>der pretence of keeing the Kings consci<g ref="char:EOLhyphen"/>ence) takes upon him to have an oare in e<g ref="char:EOLhyphen"/>verie mans boat, a conscience in every mans case but his owne; and exercises a Pretorian power, <hi>Secundùm Aequum &amp; Bonum,</hi> according to equity and good conscience. Under which notion, the Ju<g ref="char:EOLhyphen"/>risdiction of this Court hath verie lately over-flowne the Land like a Deluge; so that all sorts of civill causes, first or last, are ventilated there; and all other Courts are but Courts of Pie-pouldier, in compa<g ref="char:EOLhyphen"/>rison. And yet it ought to meddle but with three sorts of businesses.</p>
+            <p n="1">1. Breach of Trust. Take away the the Statute of Uses (whereof we have little use) and this clanse is almost gone.</p>
+            <p n="2">2. Combinasions. Which are now made the impudent suggesti<g ref="char:EOLhyphen"/>ons of everie Bill, though never so apparently false: only to hold in the cause, which is a cleare confession that frauds and deceits are the greatest things that this Court ought to deale in. Yet it is now become the common Sanctuary for all brabbling, and deceitfull persons, which ought to be a shelter for the simple and oppressed.</p>
+            <p n="3">3. Accidents. <hi>Casus fortuiti.</hi> As when a man travelling with money to pay his debts, falls into the hands of Theeves, whereby he is enforced to fotfeit his security. Yet in this case the Common Law-Courts may give a remedy, and doe. Nor doth it appeare up<g ref="char:EOLhyphen"/>on
+<pb n="4" facs="tcp:160029:3"/> what grounds in Law the Lord Keeper hath Conusans of these three recited points.</p>
+            <p>But now if a man have but communication of a Bargaine with a litigious crafty person, he will by the help of that thing called Equi<g ref="char:EOLhyphen"/>ty, cry it up for an absolute Bargaine, and enforce the performance of it. Nay, contrary to the Statute, 4. H. 4. c. 23. this Court is grown to that boldnesse, as to examine Judgements given in the Kings Courts (though anciently the Kings Bench did reverse Errours of the Chancery) whereby suits are revived, and have more then one life, and become almost immortall: What sute of Buffe lasteth halfe so long? Nay, the sutes which the children of Israel wore in their forty years peregrination thorow the wildernesse, were of no dura<g ref="char:EOLhyphen"/>blenesse in comparison.</p>
+            <p>This Examination of businesses after judgement at the Common-Law was countenanced by K. <hi>James</hi> in the yeare 1614. who affecting to weaken the power of the Lawes, and to have all Lawes <hi>in scrinio pectoris,</hi> within his owne and his Lord-Keepers brest (whom he can displace at pleasure) knew that the frequent use of equity in Chan<g ref="char:EOLhyphen"/>cery was a more hidden and powerfull way to undermine our Lawes, and bring all our Rights and Properties under an arbitrary power, then his boysterous Prerogative Royall; freer from envy, and fitter to exstinguish common concord, and to divide Families by multipli<g ref="char:EOLhyphen"/>city of Suits, which all immoderate Prin<g ref="char:EOLhyphen"/>ces desire, their rule being, <hi>Divide &amp; impe<g ref="char:EOLhyphen"/>ra.</hi> And this is<note n="*" place="margin">Hist. H. <hi>7.</hi>
+               </note>
+               <hi>Bacons</hi> meaning, where he saith,<note place="margin">Such were our Judgments for Ship-money.
+<list>
+                     <item>
+                        <hi>1.</hi> Fore-judged at Court.</item>
+                     <item>
+                        <hi>2.</hi> Seemingly argued in the Checquio Chamber.</item>
+                     <item>
+                        <hi>3.</hi> Adjudged there accor<g ref="char:EOLhyphen"/>ding to the said fore-judge<g ref="char:EOLhyphen"/>ment.</item>
+                  </list>
+               </note>
+               <hi>H.</hi> 7. would governe his People by his Lawes, yet would governe his Lawes by his Lawyers. That is, They should first consult with him or his Favourites what interpretation to put upon the Lawes. As the Mufti at Constantinople privately doth the Grand Seignior before he gives out his definitive Sentences and Oracles to the People, whereby they may be more serviceable to the State; both the Law and the Gospell under sub<g ref="char:EOLhyphen"/>till Princes, being <hi>Organa politica,</hi> Instruments of Government, po<g ref="char:EOLhyphen"/>litique Scarr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>-Crowes. The premises considered, I wonder not
+<pb n="5" facs="tcp:160029:3"/> that<note n="*" place="margin">
+                  <hi>De Regno Britan.</hi> He was Ambassadour here for the King of Spaine.</note>
+               <hi>Phil. Honorius</hi> saith, <hi>Cùm à Gulielmo Conquestore (quod perinde est ac Tyrannus) institutae sit Leges Angliae, admirandum non est quòd solam Principis utilitatem respici<g ref="char:EOLhyphen"/>ant, Subditorum verò bonum desertum esse videatur: plenaeque sunt tricarum, ambiguitatum, sibíque contraria: fuerunt siquidem excogitatae atque sancitae à Normannis, quibus nulla Gens magis litigiosa atque in controversiis machinandis ac proferendis fallacior reperiri potest.</hi> Since the Laws of England were instituted by <hi>William the Conquerer</hi> (which is as much as to say, the Tyrant) it is not to be wondered at that they respect only the profit of the King, and have no regard to the good of the Subject; and are full of plea<g ref="char:EOLhyphen"/>dings, ambiguities, and contrarieties in themselves: for, they were invented and established by the Normans, then whom no Nation is more litigious, nor more deceitfull to invent and wyre-draw Suits and controversies. But (I believe) he looked more upon the practice, then the sense and nature of our Lawes.</p>
+            <p>There happeneth rarely in the Civill Law a doubtfull case, called, <hi>Casus pro amico,</hi> A case to pleasure a friend withall; when (upon ar<g ref="char:EOLhyphen"/>guing the case) the arguments upon both sides are of such equall weight, that neither by any thing spoken in pleading, nor by any ar<g ref="char:EOLhyphen"/>guments, or reasons from his owne knowledge, the Judge can possi<g ref="char:EOLhyphen"/>bly discerne to which side the Ballance of Justice inclines: in this am<g ref="char:EOLhyphen"/>biguity the Judge (without wronging his conscience, not being able to judge upon the merits of the <hi>Cause</hi>) may judge according to the merits of the <hi>Person,</hi> he may give it to the poorer by way of charity: or to the worthier by way of reward; But our Judges and Lawyers endeavour to make all causes such, <hi>Casus pro Amico.</hi> If it be in Chan<g ref="char:EOLhyphen"/>cery, though never so plaine, after a Reference or two, and a Gene<g ref="char:EOLhyphen"/>ration or Pedigree of Orders, the controversie will become so intri<g ref="char:EOLhyphen"/>cate, that the merits of the cause being lost, all the labour lyes in the mannaging of Reports and Orders: and somtimes (even in cases of the like nature) equity beares the sway, sometimes the Common-Law: according as the party, Plaintiffe and Defendant play their game: for that is the onely personall merit here respected. I have insisted the more upon the abuse of equitie as being the fowlest ulcer in all our legall grievances, and but an upstart of no Antiquity.</p>
+            <pb n="6" facs="tcp:160029:4"/>
+            <p>For our Law, it cannot be overthrowne but by it selfe, nor with<g ref="char:EOLhyphen"/>out the injurious wit of a Lawyer, to misconstrue and betray it. These Sonnes of the Law have turned justice into wormwood: the honou<g ref="char:EOLhyphen"/>rable profession of the Law <hi>in artem litigandi,</hi> into the trade of brab<g ref="char:EOLhyphen"/>bling and pettifogging. It were a worke of infinite labour to trace halfe their misdeameanours. They are
+<q>
+                  <l>
+                     <hi>Turba gravis paci, placidaeque inimica quieti,</hi>
+                  </l>
+                  <l>
+                     <hi>Quae semper miseras sollicitabit opes.</hi>
+                  </l>
+                  <l>Foes to sweet peace, and unto pleasing rest,</l>
+                  <l>Which miserable wealth do still molest.</l>
+               </q>
+            </p>
+            <p>They are <hi>Crumeni-mulga natio, loquuteleia turba;</hi> A purse-milking generation, and a prating Rabble. I speake not these things against the Profession, nor against all the Professors, amongst whom I know are many worthy of respect for their abilities and integrities, I speake onely against the common Traders of the Law, <hi>vulgus Iurisperitorum:</hi> Of these I may say, that the house of a crafty Lawyer or Atturney keeps the Countrey in awe, and drawes in contribution as farre as an ordinary Garrison. And (custome being growne into a second na<g ref="char:EOLhyphen"/>ture) it is as naturall for a poor countrey-man to feare one of these as for a Larke to feare a Hobby. Having thus prepared your minde, to receive good councell, I will now give it you without Fee or Bribe.</p>
+            <p>Take heed how you fill up Elections with these kinde of men: the Recorder of every Borough will of course looke to be chosen, as being the mouth of his Corporation. But it is a Custome not fit for the necessity of these times, our affaires require rather States-men then Lawyers: My reason against such Elections follow.</p>
+            <p n="1">1. The knowledge of the Common-Law, doth no way conduce to the making of a States-man: It is a confined and topicall kinde of Learning, calculated onely for the Meridian of Westminster-Hall, and reacheth no further then Dover. Transplant a Common Lawyer to Calice, and his head is no more usefull there than a Sun-Dyall in a grave: who ever heard of the Politikes written in Law-French?</p>
+            <p n="2">2. If the making and penning of good Lawes were the worke of these times (as they are not) it were not wisdome to choose merce<g ref="char:EOLhyphen"/>nary Lawyers to make Lawes: because they are the first men to in<g ref="char:EOLhyphen"/>vent subtilities to evade them, and make them uselesse; and will pen them obscurely on purpose, to make themselves work in the inter<g ref="char:EOLhyphen"/>pretation.</p>
+            <p n="3">
+               <pb n="7" facs="tcp:160029:4"/>3. Lawyers, being a bold and talkative kind of men, will intrude themselves into the Chaires in all Committees, where (being accusto<g ref="char:EOLhyphen"/>med to take Fees) they will under-hand protect Delinquents, and their concealed Estates with tricks and devices.</p>
+            <p n="4">4. The Reformation of Courts of Justice is a work of absolute ne<g ref="char:EOLhyphen"/>cessity, without it (though the sword of the Lord returne againe into its scabbard, so that you have no warre) you shall have no peace. But if you have many Lawyers, they will never suffer any effectuall Law to passe, for this purpose: Because they get more by the corruption and delayes of the Law, than by the Law it selfe.</p>
+            <p n="5">5. It it necessary to make a Law for limitation of exorbitant Fees, extortion and prevarication amongst Lawyers, as is used in other Countries.</p>
+            <p n="6">6. It is necessary to limit the certain number of practisers in each Court, that they swarme not (like Locusts) over the Land, devouring and impove ishing it.</p>
+            <p>These blessings you will never attain unto, unlesse God give you the wisdome to avoid such Elections. Lay the sin, as well as the shame and smart of legall oppressions to your hearts, and you will find that the cries of the oppressed have beene a principall motive to draw down Gods vengeance upon this mournfull Land. Was ever so despe<g ref="char:EOLhyphen"/>rate a wound given to your Lawes, Liberties, and Properties, as the predetermined judgement of Ship-money? Who gave that blow? judges. What were they? theeves, <hi>Cum Prewilegio Regiae Majestatis;</hi> who bought Justice by whole sale, and sold it by retaile: who assisted them? Lawyers, who undertaking to plead for their Clients against it, prevaricated (for the most part) and betrayed the cause; to get favour and preferment. And yet such proceedings were against both the Judges, and the Coronation Oath: And the Judges as well as the King have the Coronation Oath in keeping; <hi>Tresilian</hi> and his fellow Judges were condemned and executed in <hi>Richard</hi> the seconds time, for making the King breake his Coronation Oath, upon an ex<g ref="char:EOLhyphen"/>trajudiciall opinion collusorily given: for (saith the Record) <hi>Sacra<g ref="char:EOLhyphen"/>mentum Domini Regis erga populum suum habent ad custodiendum.</hi> But our Judges (though more wicked) have the happinesse to live in a more wicked age <hi>(cujus pars magna sunt)</hi> and out-live their Crimes, paying only a small part by way of Fine, enjoying the rest of their stollen Treasure: <hi>Occulta spolia &amp; pluros de pace triumphos.</hi> After they had made Peace as devouring as Warre, and the Law as cruell as the
+<pb n="8" facs="tcp:160029:5"/> sword, who (that is not a better Christian than these Brothers of the Coyfe, Brothers in evill) will not cry out with <hi>Epicurus, Deos prorsus contemnere res humanas.</hi> That God takes no more care what men doe on this Earthly Ball, that man doth what Ants do in an Emmet-hill. When<note n="*" place="margin">Cicero in Verrem.</note>
+               <hi>Verres</hi> (being Pro-Consull of <hi>Si<g ref="char:EOLhyphen"/>cily</hi>) had pilled that Province (and other Pro-Consulls, and Pro-Pretors, were punished for lesser extortions) he laughing at their foolish moderation, vaunted to his Broker <hi>Ti<g ref="char:EOLhyphen"/>marchides,</hi> that hee had gotten enough to buy the friend-ship of the Senate, and come off a rich and honourable man: So our Judges en<g ref="char:EOLhyphen"/>joy their crimes, and the price and reward of them. Nay, <hi>Fruuntur diis iratis, cum tu victrix provincia ploras,</hi> grow fat and prosper upon the anger of God, and man, whilst this Land groanes under the sad weight of sword, pestilence, and famine, the effects of their injustice. But through whose favour is it, they have not expiated their crimes with their bloud, and washed away the guilt of the Land, but the Lawyers? who wisely consider, it may be their own case another day.</p>
+            <p>I have shewed you how unsafe it is to trust mercenary men with <hi>making</hi> or <hi>keeping</hi> of your Lawes, I will epitomize what I have said in<note n="*" place="margin">Panigyr. ad Trajanum.</note>
+               <hi>Plinies</hi> words, <hi>Olim Criminibus, jam legibus laboratur, &amp; metuendum est nè legibus fundata res publica, sit legibus eversa.</hi> Heretofore we were laden with our crimes, now we are oppressed with our Lawes: And it is to be feared least the Common-wealth (though founded by the Lawes) be confounded by the Lawes, (or rather by the Lawyers.)</p>
+            <p>I have given you good Counsell, God make it wholesome to you, and safe to me: which (if the times be not too wicked to hear truth, I shall not doubt; In the mean time the feeling experience I have in the publike calamities, hath raised my resolution rather to <hi>scorne</hi> then <hi>fear</hi> any injury. <hi>Justum &amp; tenacem propositi virum, non civium ard<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r prava jubentium, non vultus instantis Tyranni mente quatit solida. Fra<g ref="char:EOLhyphen"/>ctus illabatur orbis impavidum ferient ruinae.</hi> A just and constant man will not be shaken in his resolution, neither by the threats of tyrants, nor by the clamours of the many-headed multitude: though the world fall upon him, he will fall accompanied with justice, honesty, religion, (mistake mee not, I doe not meane hypocrisie.) <hi>Leve est quod ferre possum, breve est quod ferre non possum. Mors ultima linear<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rum est.</hi> So I conclude my advice, and God conclude our miseries.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in the Year, 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
